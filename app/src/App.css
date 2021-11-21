@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+:root {
+  --cor1: #e9e9f2;
+  --cor2: #02afe3;
+  --cor3: #027ea3;
+  --cor4: #014c63;
+  --cor5: #012f3d;
+  --cor6: #363636;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Poppins", sans-serif;
+}
+
+.todo-app {
+  background-color: var(--cor5);
+  box-shadow: 0 0 0.5em var(--cor5);
+  width: max-content;
+  padding-left: 5%;
+  padding-right: 5%;
+  height: max-content;
+  min-height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border-radius: 16px;
+}

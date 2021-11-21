@@ -1,0 +1,17 @@
+:root {
+  --cor1: #e9e9f2;
+  --cor2: #02afe3;
+  --cor3: #027ea3;
+  --cor4: #014c63;
+  --cor5: #012f3d;
+  --cor6: #363636;
+}
+
+.main {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  display: flex;
+  justify-content: center;
+  overflow-x: hidden;
+}

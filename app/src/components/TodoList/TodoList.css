@@ -1,0 +1,22 @@
+:root {
+  --cor1: #e9e9f2;
+  --cor2: #02afe3;
+  --cor3: #027ea3;
+  --cor4: #014c63;
+  --cor5: #012f3d;
+  --cor6: #363636;
+}
+.container {
+  padding: 10%;
+}
+
+.tittle {
+  color: var(--cor1);
+  font-size: 40px;
+  white-space: nowrap;
+  margin-bottom: 5%;
+}
+
+.write {
+  color: var(--cor6);
+}
